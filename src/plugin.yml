@@ -1,0 +1,7 @@
+name: Murder
+main: fr.first92.murder.Murder
+version: 1.0.0-SNAPSHOT
+author: First92
+commands:
+  game:
+  test:
